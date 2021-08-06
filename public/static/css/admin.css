@@ -1,0 +1,13 @@
+.form-group input[type="checkbox"] {
+    margin: 10px 0 10px 0;
+}
+
+.remove-city-icon {
+    color: #ff0000;
+    float: right;
+}
+
+.remove-city-icon:hover, .remove-city-icon:focus {
+    color: #aa0000;
+    text-decoration: none;
+}

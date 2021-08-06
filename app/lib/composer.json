@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phalcon/devtools": "~4.0",
+        "phalcon/ide-stubs": "~4.0"
+    }
+}

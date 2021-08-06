@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*add-merchant
+Disallow: /*edit-merchant
+Disallow: /search/*

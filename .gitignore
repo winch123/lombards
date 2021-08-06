@@ -1,0 +1,13 @@
+app/cache/
+app/logs/
+public/files/
+public/img/
+public/sitemap/
+public/studio/
+public/userfiles/
+app/config/develop.php
+app/config/production.php
+.phalcon/migration-version
+/.idea/
+/.vscode/
+/nbproject/
